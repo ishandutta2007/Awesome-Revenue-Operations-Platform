@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Revenue-Operations-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Revenue-Operations-Platform?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Revenue-Operations-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Revenue-Operations-Platform?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Revenue-Operations-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Revenue-Operations-Platform?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Revenue-Operations-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -74,70 +74,70 @@ Open-source technologies form the backbone of modern data-driven RevOps architec
 
 Repositories are **sorted in descending order by GitHub star count**, with a live star count badge linking directly to each project's stargazers:
 
-1. **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+1. **[n8n](https://github.com/n8n-io/n8n)** [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
    ⚡ Fair-code workflow automation tool with extensive CRM, Slack, and email nodes, frequently used to automate lead routing, lead enrichment, and RevOps alerting.
 
-2. **[Apache Superset](https://github.com/apache/superset)** [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)  
+2. **[Apache Superset](https://github.com/apache/superset)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)  
    📊 Enterprise-grade data exploration and visualization platform powering custom executive revenue dashboards, conversion funnels, and pipeline progression metrics.
 
-3. **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+3. **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub_Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
    🌟 Modern open-source CRM built as a customizable alternative to Salesforce, providing Kanban opportunity pipelines, custom fields, and native AI capabilities.
 
-4. **[Odoo](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
+4. **[Odoo](https://github.com/odoo/odoo)** [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
    💼 Comprehensive suite of open-source business apps, including advanced CRM, Sales, Invoicing, and Subscription modules supporting complete lead-to-cash pipelines.
 
-5. **[Metabase](https://github.com/metabase/metabase)** [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
+5. **[Metabase](https://github.com/metabase/metabase)** [![GitHub_Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
    📈 User-friendly business intelligence tool used by RevOps analysts to query data warehouses and build interactive sales forecasting and quota attainment charts.
 
-6. **[Cal.com](https://github.com/calcom/cal.com)** [![GitHub stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)  
+6. **[Cal.com](https://github.com/calcom/cal.com)** [![GitHub_Stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)  
    📅 Open-source scheduling infrastructure supporting round-robin meeting distribution, qualification routing, and automated calendar-to-CRM booking workflows.
 
-7. **[Novu](https://github.com/novuhq/novu)** [![GitHub stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
+7. **[Novu](https://github.com/novuhq/novu)** [![GitHub_Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
    🔔 Open-source notification infrastructure enabling multi-channel RevOps alerting (email, in-app, Slack, SMS) for deal stage shifts, approval requests, and churn alerts.
 
-8. **[PostHog](https://github.com/PostHog/posthog)** [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)  
+8. **[PostHog](https://github.com/PostHog/posthog)** [![GitHub_Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)  
    🦔 Product-led revenue analytics platform integrating product usage metrics, conversion funnels, and customer journey analytics directly into RevOps data pipelines.
 
-9. **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+9. **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
    ⚙️ Modular open-source ERP featuring robust CRM, quotation, sales order, and revenue accounting modules built on the Python/Frappe framework.
 
-10. **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
+10. **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub_Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
     🧩 Open-source no-code business automation tool with generative AI integrations designed for automating cross-tool sales operations and lead notifications.
 
-11. **[Prefect](https://github.com/PrefectHQ/prefect)** [![GitHub stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=social&color=white)](https://github.com/PrefectHQ/prefect/stargazers)  
+11. **[Prefect](https://github.com/PrefectHQ/prefect)** [![GitHub_Stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=social&color=white)](https://github.com/PrefectHQ/prefect/stargazers)  
     🐍 Modern workflow orchestration framework designed to reliably coordinate scheduled RevOps ETL jobs, customer data syncing, and ML forecasting pipelines.
 
-12. **[Temporal](https://github.com/temporalio/temporal)** [![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)  
+12. **[Temporal](https://github.com/temporalio/temporal)** [![GitHub_Stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)  
     ⏱️ Resilient microservices execution engine ideal for mission-critical lead-to-cash billing workflows, contract provisioning, and financial reconciliation.
 
-13. **[Airbyte](https://github.com/airbytehq/airbyte)** [![GitHub stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers)  
+13. **[Airbyte](https://github.com/airbytehq/airbyte)** [![GitHub_Stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers)  
     🔄 Open-source data integration engine featuring hundreds of connectors to replicate data from CRMs, billing systems, and ad platforms into the revenue warehouse.
 
-14. **[Dagster](https://github.com/dagster-io/dagster)** [![GitHub stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social&color=white)](https://github.com/dagster-io/dagster/stargazers)  
+14. **[Dagster](https://github.com/dagster-io/dagster)** [![GitHub_Stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social&color=white)](https://github.com/dagster-io/dagster/stargazers)  
     📦 Cloud-native data orchestrator for developing, testing, and monitoring data assets across modern RevOps data stacks and machine learning forecasting models.
 
-15. **[dbt-core](https://github.com/dbt-labs/dbt-core)** [![GitHub stars](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=social&color=white)](https://github.com/dbt-labs/dbt-core/stargazers)  
+15. **[dbt-core](https://github.com/dbt-labs/dbt-core)** [![GitHub_Stars](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=social&color=white)](https://github.com/dbt-labs/dbt-core/stargazers)  
     🧱 Transformation framework that turns raw ELT data into clean, curated dimensional models for pipeline tracking, revenue attribution, and cohort retention.
 
-16. **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
+16. **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub_Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
     🧾 Open-source invoicing, payments, and expense tracking platform handling lead-to-cash operations, recurring billing, and quotation approval workflows.
 
-17. **[Crater](https://github.com/crater-invoice-inc/crater)** [![GitHub stars](https://img.shields.io/github/stars/crater-invoice-inc/crater?style=social&color=white)](https://github.com/crater-invoice-inc/crater/stargazers)  
+17. **[Crater](https://github.com/crater-invoice-inc/crater)** [![GitHub_Stars](https://img.shields.io/github/stars/crater-invoice-inc/crater?style=social&color=white)](https://github.com/crater-invoice-inc/crater/stargazers)  
     💳 Open-source web and mobile invoicing suite designed to manage client estimates, track revenue receipts, and automate payment reconciliation.
 
-18. **[SuiteCRM](https://github.com/salesagility/SuiteCRM)** [![GitHub stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)  
+18. **[SuiteCRM](https://github.com/salesagility/SuiteCRM)** [![GitHub_Stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)  
     🏢 Battle-tested enterprise open-source CRM platform providing pipeline forecasting, contract management, and workflow automation.
 
-19. **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
+19. **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub_Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
     💰 Open-source subscription billing and payment management platform built for complex billing logic, dunning, and automated revenue recognition.
 
-20. **[EspoCRM](https://github.com/espocrm/espocrm)** [![GitHub stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)  
+20. **[EspoCRM](https://github.com/espocrm/espocrm)** [![GitHub_Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)  
     📋 Lightweight, customizable open-source CRM featuring sales pipeline Kanban views, sales analytics, lead routing, and customer portal integrations.
 
-21. **[Relaticle](https://github.com/relaticle/relaticle)** [![GitHub stars](https://img.shields.io/github/stars/relaticle/relaticle?style=social&color=white)](https://github.com/relaticle/relaticle/stargazers)  
+21. **[Relaticle](https://github.com/relaticle/relaticle)** [![GitHub_Stars](https://img.shields.io/github/stars/relaticle/relaticle?style=social&color=white)](https://github.com/relaticle/relaticle/stargazers)  
     🤖 Open-source CRM supporting native AI agents, Model Context Protocol (MCP) tool bindings, and modern self-hosted revenue operations workflows.
 
-22. **[Grouparoo](https://github.com/grouparoo/grouparoo)** [![GitHub stars](https://img.shields.io/github/stars/grouparoo/grouparoo?style=social&color=white)](https://github.com/grouparoo/grouparoo/stargazers)  
+22. **[Grouparoo](https://github.com/grouparoo/grouparoo)** [![GitHub_Stars](https://img.shields.io/github/stars/grouparoo/grouparoo?style=social&color=white)](https://github.com/grouparoo/grouparoo/stargazers)  
     🔁 Open-source Reverse ETL framework synchronizing unified customer data from the data warehouse back into operational CRMs and marketing automation platforms.
 
 ---
